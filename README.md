@@ -39,7 +39,7 @@ This Python script automates the process of downloading cancer sequencing cohort
 
 3. Run the script using the following command:
    ```
-   python xena_data_downloader.py
+   python download.py
    ```
 
 4. The script will start downloading the files based on the information in the JSON file.
